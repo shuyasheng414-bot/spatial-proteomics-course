@@ -1,0 +1,15 @@
+{
+  "notebook_code_cells_executed": 8,
+  "embedded_figures": 4,
+  "analysis_py_lines": 197,
+  "stable_results_on_rerun": [
+    "classification_report.csv",
+    "cross_validation.csv",
+    "metrics.json",
+    "split.csv",
+    "test_predictions.csv",
+    "unlabelled_predictions.csv"
+  ],
+  "data_sha256_verified": true,
+  "notebook_errors": 0
+}

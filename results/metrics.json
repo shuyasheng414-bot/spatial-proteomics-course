@@ -1,0 +1,35 @@
+{
+  "random_seed": 42,
+  "proteins": 888,
+  "features": 4,
+  "reference_markers": 144,
+  "eligible_markers": 140,
+  "classes": [
+    "Ribosome 60S",
+    "ER",
+    "Nucleus",
+    "PM",
+    "Ribosome 40S",
+    "mitochondrion",
+    "Proteasome",
+    "Lysosome",
+    "Cytoskeleton",
+    "Golgi"
+  ],
+  "excluded_rare_classes": {
+    "Peroxisome": 4
+  },
+  "train_n": 98,
+  "test_n": 42,
+  "unknown_n": 744,
+  "selected_model": "RandomForest",
+  "test_metrics": {
+    "accuracy": 0.9761904761904762,
+    "balanced_accuracy": 0.95,
+    "macro_f1": 0.9607843137254901
+  },
+  "pca_variance_ratio": [
+    0.6085772836093157,
+    0.2756641247529078
+  ]
+}
