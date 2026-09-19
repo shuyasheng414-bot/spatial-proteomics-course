@@ -1,0 +1,3 @@
+* text=auto eol=lf
+data/tan2009_rep1.csv -text
+*.png binary
