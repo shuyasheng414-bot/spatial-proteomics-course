@@ -1,0 +1,16 @@
+{
+  "source_url": "https://raw.githubusercontent.com/lgatto/pRolocdata/f717d11e22beab97deca6b82306b00367cf55fca/inst/extdata/pr800866n_si_004-rep1.csv",
+  "upstream_commit": "f717d11e22beab97deca6b82306b00367cf55fca",
+  "sha256": "96ab42c26517b0ef38e60234c766351572d8b460777aecc16f2e6a6836934250",
+  "source_repository": "https://github.com/lgatto/pRolocdata",
+  "original_publication_doi": "10.1021/pr800866n",
+  "upstream_package_license": "GPL-2",
+  "dataset": "Tan 2009 Drosophila LOPIT replicate 1, pRolocdata CSV export",
+  "target_column": "pd.markers",
+  "features": [
+    "area 114",
+    "area 115",
+    "area 116",
+    "area 117"
+  ]
+}
